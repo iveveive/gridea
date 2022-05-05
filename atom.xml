@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://https://iveveive.github.io/gridea/</id>
+    <title></title>
+    <updated>2022-05-05T19:42:38.340Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://https://iveveive.github.io/gridea/"/>
+    <link rel="self" href="https://https://iveveive.github.io/gridea/atom.xml"/>
+    <logo>https://https://iveveive.github.io/gridea/images/avatar.png</logo>
+    <icon>https://https://iveveive.github.io/gridea/favicon.ico</icon>
+    <rights>All rights reserved 2022, </rights>
+    <entry>
+        <title type="html"><![CDATA[R-2022.5.5]]></title>
+        <id>https://https://iveveive.github.io/gridea/post/ri-ji-and202256/</id>
+        <link href="https://https://iveveive.github.io/gridea/post/ri-ji-and202256/">
+        </link>
+        <updated>2022-05-05T18:18:33.000Z</updated>
+        <content type="html"><![CDATA[<p>啥都没干的一天</p>
+]]></content>
+    </entry>
+</feed>
